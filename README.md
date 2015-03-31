@@ -16,3 +16,5 @@ If the sum of all the cards in the dealer's hand is greater than 21, then the de
 As long as the user's hand total stays under 21, the user has the option to hit (get another card), or
 stay (play the hand he has). If the user hits and the user's total goes over 21, then the user automatically loses
 and the game ends.
+
+The Ace is initialized with value = 11. If the total of the user/dealer's hand is over 21, then the Ace will be reduced to value =1. 
